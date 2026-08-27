@@ -164,7 +164,7 @@ fix                     vxprof O2_zone ave/chunk 100 10 1000 chunkx vx file ${ou
 
 #----
 
-# Velocity moments required for local translational temperature of shock #this code was never actually run, so check for bugs but not needed to run simulation
+# Velocity moments required for local translational temperature of shock
 variable                vx2 atom vx*vx
 variable                vy2 atom vy*vy
 variable                vz2 atom vz*vz
