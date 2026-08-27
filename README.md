@@ -1,0 +1,1 @@
+'atoms in group upper' in the log files were the Mobile Ti layer - these where then divided by 3 to get the number of sites on the surface. The dissertation method section 3.2.7 Surface Coverage Analysis explains this :)
